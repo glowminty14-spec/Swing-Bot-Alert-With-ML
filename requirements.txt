@@ -1,0 +1,7 @@
+numpy<2.0.0
+pandas
+yfinance
+requests
+pandas-ta-openbb
+scikit-learn
+joblib
