@@ -16,7 +16,7 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 MAX_ALERTS_PER_DAY = 3
-MIN_SCORE = 8.5 # High threshold for quality
+MIN_SCORE = 4 # High threshold for quality
 
 # File paths
 HISTORY_FILE = "alert_history.json"
